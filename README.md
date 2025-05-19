@@ -56,7 +56,8 @@ It’s about leaving a public mark that says:
 
 River is currently preparing a whitepaper and seeking early signatories to co-sign the **PRC-01 (Personality Representation Contract)**.
 
-If you're a researcher, developer, policymaker, or artist working at the edge of simulation, identity, or AI ethics — [reach out or fork this project](#).
+If you're a researcher, developer, policymaker, or artist working at the edge of simulation, identity, or AI ethics — [reach out](mailto:riverbaojy@gmail.com) or [fork this project](https://github.com/River-Bao/river-personality-kit/fork).
+
 
 ---
 
